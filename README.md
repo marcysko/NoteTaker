@@ -5,7 +5,7 @@
   [![license](https://img.shields.io/badge/license-MIT-yellow)](https://shields.io)
 
 ## Description
-to create an application called Note Taker that can be used to write and save notes. 
+Created an application called Note Taker that can be used to write and save notes. 
 ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
