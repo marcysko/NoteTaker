@@ -12,7 +12,7 @@ Created an application called Note Taker that can be used to write and save note
   
   * [License](#License)
   
-  * [Contributing](#Contributing)
+  * [Technology](#Technology)
   
   * [Tests](#Tests)
   
