@@ -16,6 +16,8 @@ Created an application called Note Taker that can be used to write and save note
   * [Tests](#Tests)
   
   * [Questions](#Questions)
+
+[![Screen-Shot-2021-04-10-at-12-35-39-PM.png](https://i.postimg.cc/k5DfXngJ/Screen-Shot-2021-04-10-at-12-35-39-PM.png)](https://postimg.cc/B89xmfFk)
 ## Installation
 What are the steps required to install your project?
 To install necessary dependencies for this application, the following commands are required:
