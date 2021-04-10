@@ -1,1 +1,8 @@
-[{"title":"Test Title","text":"Test text"}]
+[{"title":"New note","text":"new note","id":0},
+
+
+
+
+    {"title":"Eat Lunch","text":"Are you hungry?","id":1},
+    {"title":"Take a Nap","text":"Are you tired","id":2},
+    {"title":"Take a Vacation","text":"Be sure to take a vacation soon!"}]
