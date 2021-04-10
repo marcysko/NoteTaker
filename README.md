@@ -27,6 +27,15 @@ npm i express fs - Adds node modules and populates the package-lock.json file.
 ### License
 MIT
 ### Contributing
+- HTML 
+- CSS 
+- JavaScript 
+- jQuery 
+- JSON 
+- Node.js 
+- Express.js 
+- Heroku 
+- GitHub 
 
 ### Tests
 Provide instructions for running tests:
