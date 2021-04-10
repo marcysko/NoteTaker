@@ -8,8 +8,7 @@
 Created an application called Note Taker that can be used to write and save notes. 
 ## Table of Contents
   * [Installation](#Installation)
-  * [Usage](#Usage)
-  
+ 
   * [License](#License)
   
   * [Technology](#Technology)
@@ -22,7 +21,7 @@ What are the steps required to install your project?
 To install necessary dependencies for this application, the following commands are required:
 npm init - To create the package.json file.
 npm i express fs - Adds node modules and populates the package-lock.json file.
-### Usage
+
 
 ### License
 MIT
@@ -38,7 +37,6 @@ MIT
 - GitHub 
 
 ### Tests
-Provide instructions for running tests:
 No tests were required for this application
 ## Questions
 * For questions, please reach out to me at marciasko@icloud.com
