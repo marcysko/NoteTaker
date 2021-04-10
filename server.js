@@ -36,7 +36,7 @@ app.post("/api/notes", function (req, res) {
       if (err) throw err;
       notesInfo = JSON.parse(data)
       notesInfo.push(newNotes)
-      // must be a string, requires a callback so include the err function.
+
       fs.writeFile(path.join(__dirname, "./db/db.json"), JSON.stringify(notesInfo),function (err, data) {
           if (err) throw err;
           res.send()
