@@ -7,7 +7,7 @@
 ## Description
 Created an application called Note Taker that can be used to write and save notes. 
 ## Website
-https://desolate-ridge-51716.herokuapp.com/notes
+https://desolate-ridge-51716.herokuapp.com/
 ## Table of Contents
   * [Installation](#Installation)
  
@@ -23,8 +23,8 @@ https://desolate-ridge-51716.herokuapp.com/notes
 ## Installation
 What are the steps required to install your project?
 To install necessary dependencies for this application, the following commands are required:
-npm init - To create the package.json file.
-npm i express fs - Adds node modules and populates the package-lock.json file.
+-npm init - To create the package.json file.
+-npm i express fs - Adds node modules and populates the package-lock.json file.
 
 
 ### License
