@@ -2,7 +2,7 @@
 
 
 ## Licensing:
-  [![license](https://img.shields.io/badge/license-MIT-yellow)](https://shields.io)
+  [![license](https://img.shields.io/badge/license-ISC-yellow)](https://shields.io)
 
 ## Description
 Created an application called Note Taker that can be used to write and save notes. 
@@ -20,6 +20,7 @@ https://desolate-ridge-51716.herokuapp.com/
   * [Questions](#Questions)
 
 [![Screen-Shot-2021-04-10-at-12-35-39-PM.png](https://i.postimg.cc/k5DfXngJ/Screen-Shot-2021-04-10-at-12-35-39-PM.png)](https://postimg.cc/B89xmfFk)
+[![Screen-Shot-2021-04-10-at-1-34-44-PM.png](https://i.postimg.cc/d17BYvjb/Screen-Shot-2021-04-10-at-1-34-44-PM.png)](https://postimg.cc/njJ74y52)
 ## Installation
 What are the steps required to install your project?
 To install necessary dependencies for this application, the following commands are required:
@@ -28,7 +29,7 @@ To install necessary dependencies for this application, the following commands a
 
 
 ### License
-MIT
+ISC
 ### Technology
 - HTML 
 - CSS 
